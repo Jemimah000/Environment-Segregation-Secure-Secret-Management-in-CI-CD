@@ -1,0 +1,1 @@
+# Environment-Segregation-Secure-Secret-Management-in-CI-CD
